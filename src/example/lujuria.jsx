@@ -60,7 +60,7 @@ export const Lujirua = () => {
    
         <blockquote className="blockquote text-end" >
                     <p className="mb-1" ><i className="fa-brands fa-react"></i>React</p>
-                    <footer className="blockquote-footer" > J.Romero </footer>
+                    <footer className="blockquote-footer" > A. Merlano </footer>
         </blockquote>
     </>
   )
